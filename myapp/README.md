@@ -1,6 +1,12 @@
 # myapp
 
-A new Flutter project.
+To-do app Flutter project to study Flutter and Riverpod.  
+
+## Appendix
+- flutter-study.dev  
+[https://www.flutter-study.dev/widgets/about-widget]
+
+
 
 ## Getting Started
 
